@@ -32,7 +32,7 @@ Contributions are welcome! If you have any ideas for improvements or would like 
 
 
 Get in Touch
-Have questions or suggestions? Feel free to reach out to us via kodansharma7@gmail.com or open an issue on GitHub.
+Have questions or suggestions? Feel free to reach out to us via dermahomeweb@gmail.com or open an issue on GitHub.
 
 
 
